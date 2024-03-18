@@ -43,3 +43,22 @@ iframe#tela{
     height: 393px;
 }
 
+/*
+https://www.youtube.com/watch?v=1kOhJr4DXIg&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=14
+*/
+section#redes-sociais{
+    text-align: right;
+}
+section#redes-sociais img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
+    box-sizing: border-box; /*Comando para fazer a borda ficar contida no objeto em mover os demais elementos.*/
+}
+section#redes-sociais img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    transform:translate(-3px, -3px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.600);
+    transition: 0.5s;
+}
