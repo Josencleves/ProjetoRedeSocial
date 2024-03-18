@@ -61,4 +61,13 @@ section#redes-sociais img:hover{
     transform:translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.600);
     transition: 0.5s;
+    /*transform: scale(1.2);*/
 }
+
+/* Criando uma página para cada rede social
+https://www.youtube.com/watch?v=ar5UB2MxraE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=15
+*/
+
+/*Personalizando imagens
+https://www.youtube.com/watch?v=z30JMe5Cufs&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=16
+*/
